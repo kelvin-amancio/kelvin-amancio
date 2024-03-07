@@ -6,7 +6,7 @@
 <hr>
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kelvin-amancio&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-amancio&hide_border=true&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-amancio&hide_border=true&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
