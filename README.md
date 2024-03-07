@@ -5,13 +5,14 @@
 
 <hr>
 <div align="center">
-  <a href="https://github.com/kelvin-amancio"> -
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kelvin-amancio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-amancio&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kelvin-amancio&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-amancio&hide_border=true&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
- 
 
- ##
+##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kelvin-amancio&bg_color=000000&color=ababab&line=542de1&point=dedede&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
 <div align="center" style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -24,7 +25,3 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
- 
-  
-<!-- ![Snake animation](https://github.com/kelvin-amancio/kelvin-amancio/blob/output/github-contribution-grid-snake.svg)
- -->
