@@ -1,6 +1,6 @@
 <h2>Sobre mim... </h2>
 
-<p>Como Desenvolvedor de Software, tive experiência de atuação em grandes projetos de uma empresa multinacional para diversos estados do Brasil e para Findlay(EUA), utilizando tecnologias web/mobile, como .Net, Angular, Razor e Ionic, na qual são tecnologias que domino e possuo foco como Desenvolvedor Full-Stack.</p>
+<p>Como Desenvolvedor de Software, tive experiência de atuação em grandes projetos de uma empresa multinacional para diversos estados do Brasil e para Findlay(EUA), utilizando tecnologias web/mobile, com .Net, Angular, Razor e Ionic, na qual são tecnologias que domino e possuo foco como Desenvolvedor Full-Stack.</p>
 <p>Minha experiência nessas áreas me permitiu desenvolver uma compreensão profunda das complexidades do desenvolvimento de sistemas Web e entregar consistentemente resultados excepcionais aos clientes.</p>
 
 <hr>
